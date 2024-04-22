@@ -1,10 +1,8 @@
-# OpenStack-Ironic-Bare-Metal
-
 # Cài đặt Ironic trong OpenStack
 
 ## Yêu cầu
 
-- Ubuntu Server 20.04 LTS
+- Debian 12 Server 
 - Truy cập vào một môi trường OpenStack
 - Hiểu biết cơ bản về các khái niệm trong OpenStack
 
