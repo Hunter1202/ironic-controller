@@ -1,8 +1,8 @@
-# Cài đặt Ironic trong OpenStack
+# Cài đặt Ironic trong OpenStack. ([Visit website](https://hunter1202.github.io/ironic-controller/))
 
 ## Yêu cầu
 
-- Debian 12 Server 
+- Debian 12 Server
 - Truy cập vào một môi trường OpenStack
 - Hiểu biết cơ bản về các khái niệm trong OpenStack
 
