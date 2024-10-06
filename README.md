@@ -163,3 +163,5 @@ Trước khi cài đặt Ironic, bạn cần cài đặt các thành phần cơ 
 ## Kết luận
 
 Bạn đã cài đặt và cấu hình Ironic thành công trong môi trường OpenStack của mình. Bây giờ bạn có thể triển khai và quản lý các máy chủ bare metal bằng dịch vụ Ironic.
+
+Chi tiết [click here](https://hunter1202.github.io/ironic-controller/ironic-controller.pdf).
